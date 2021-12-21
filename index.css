@@ -21,6 +21,9 @@
 .rating-css {
     display: flex;
 }
+td{
+    width: 16%;
+}
 
 .rating-css div {
     color: orange;
